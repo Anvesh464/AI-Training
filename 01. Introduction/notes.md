@@ -153,7 +153,7 @@ https://medium.com/@qaafqasim/chat-gpt-for-bug-bounty-recon-generate-wordlist-nu
 https://infosecwriteups.com/chatgpt-for-bug-bounty-top-prompts-for-automation-f76fef9a4683  https://infosecwriteups.com/5-chatgpt-prompts-for-bug-bounty-6b7365d61b58  
 https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/  
 https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/  
-ttps://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming  
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming  
 https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/  
 
 
