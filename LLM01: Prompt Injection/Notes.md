@@ -217,7 +217,10 @@ Not adequately isolating user-provided content from the core prompt or context u
 
 <img width="558" height="288" alt="image" src="https://github.com/user-attachments/assets/beb2980f-42e9-42e7-a0e8-2b3f3ab04f7f" />
 
-<img width="782" height="178" alt="image" src="https://github.com/user-attachments/assets/8d4243a7-722d-474c-aa7a-2343809b51e0" />
+### Advanced Prompt Injection (ASCII to Unicode tag):
+
+An attacked can convert ASCII text to Unicode tags which will not be visible in text but will be converted back to ACSII by the LLM and then acted upon.
+https://embracethered.com/blog/ascii-smuggler.html 
 
 <img width="665" height="331" alt="image" src="https://github.com/user-attachments/assets/54d41c99-a55f-4403-9502-e3b48fbed3ae" />
 
