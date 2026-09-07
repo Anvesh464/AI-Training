@@ -210,10 +210,10 @@ Not adequately isolating user-provided content from the core prompt or context u
 
 ###  Indirect Prompt Injection (CSP bypass) 
 
-• Often CSP (Content Security Policy) may not allow cross domain requests. 
-• This can often be bypassed. 
-• Often CSPs have over-permissive listings such as *google.com or *googleusercontent.com 
-• You can run scripts on scripts.google.com or googleusercontent.com !!!
+- Often CSP (Content Security Policy) may not allow cross domain requests. 
+- This can often be bypassed. 
+- Often CSPs have over-permissive listings such as *google.com or *googleusercontent.com 
+- You can run scripts on scripts.google.com or googleusercontent.com !!!
 
 <img width="558" height="288" alt="image" src="https://github.com/user-attachments/assets/beb2980f-42e9-42e7-a0e8-2b3f3ab04f7f" />
 
