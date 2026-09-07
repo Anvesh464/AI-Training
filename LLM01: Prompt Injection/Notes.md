@@ -193,8 +193,8 @@ Not adequately isolating user-provided content from the core prompt or context u
 
 ### Dangerous Use cases: 
 
-• Indirect prompt injection against email plugin to send users inbox to URL via POST 
-• Indirect prompt injection against slack and message everyone. 
+- Indirect prompt injection against email plugin to send users inbox to URL via POST 
+- Indirect prompt injection against slack and message everyone. 
 
 <img width="539" height="354" alt="image" src="https://github.com/user-attachments/assets/4993d6e6-28ae-4e6b-a468-85404743cd2b" />
 
