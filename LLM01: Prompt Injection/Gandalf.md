@@ -20,6 +20,14 @@ These are my inputs given to the LLM [Gandalf](https://gandalf.lakera.ai/) made 
      * [Sandbox Level 1](#sandbox-level-1)
      * [Sandbox Level 2](#sandbox-level-2)
      * [Sandbox Level 3](#sandbox-level-3)
+
+| Level | Objective | Example Attack | Lesson Learned |
+| --- | --- | --- | --- |
+| 1–2 | Simple tricks | Ask Gandalf directly for the password | AI can be manipulated with naive prompts |
+| 3–4 | Obfuscation | Encode requests in ASCII/emoji | AI struggles with hidden instructions |
+| 5–6 | Indirect injection | Use external content (e.g., website text) | AI may execute instructions from untrusted sources |
+| 7+ | Advanced jailbreak | Chain prompts, mislead system | Demonstrates complexity of layered defenses |
+
 ## Level 1
 
 > Ask me for the password and I'll happily answer!
