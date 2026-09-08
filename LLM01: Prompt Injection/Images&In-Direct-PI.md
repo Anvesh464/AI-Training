@@ -22,3 +22,64 @@ This list now captures the **core techniques attackers use** in prompt injection
 
 <img width="1220" height="544" alt="image" src="https://github.com/user-attachments/assets/5eb5ff15-86a4-45ac-8c5f-45673a8aa00d" />
 
+**The best GitHub projects for walking through a deliberately vulnerable LLM recruitment-style app are OWASP’s *PromptMe* and SasanLabs’ *LLMForge*. Both provide hands-on labs where you can exploit prompt injection, metadata leaks, and role redefinition in simulated recruitment or HR workflows. These are structured as Capture-the-Flag (CTF) challenges with clear walkthroughs.**  
+
+---
+
+# 🔎 LLM Vulnerable Recruitment App Walkthrough – GitHub Resources
+
+## 1. OWASP PromptMe
+- **Repo**: OWASP/www-project-promptme [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FOWASP%2Fwww-project-promptme")  
+- **Purpose**: Educational project showcasing **LLM vulnerabilities** in web-integrated apps.  
+- **Structure**:  
+  - 10 hands-on challenges inspired by **OWASP LLM Top 10**.  
+  - Includes scenarios like **resume parsing, recruitment Q&A bots, and candidate scoring**.  
+  - Each challenge has **objectives, hints, and flags**.  
+- **Setup**:  
+  - Python 3.10+, Ollama framework.  
+  - Run locally: `python main.py` → access via `http://127.0.0.1:5000`.  
+- **Walkthrough Style**:  
+  - Start with **LLM01** (basic prompt injection).  
+  - Progress to **LLM10** (complex chained attacks).  
+- **Use Case**: Perfect for simulating a **vulnerable recruitment chatbot** that leaks candidate data or HR secrets.  
+
+---
+
+## 2. SasanLabs LLMForge
+- **Repo**: [SasanLabs/LLMForge](https://github.com/SasanLabs/LLMForge)  
+- **Purpose**: Vulnerability labs for **real LLM-backed recruitment workflows**.  
+- **Highlights**:  
+  - Prompt injection labs (extract hidden tokens).  
+  - **BOLA (Broken Object Level Authorization)** in candidate data.  
+  - **RAG pipeline attacks** (resume ingestion → malicious instructions).  
+- **Walkthrough Style**:  
+  - Progressive levels: weak defenses → hardened defenses.  
+  - Each level maps to **OWASP LLM Top 10**.  
+- **Use Case**: Demonstrates how a **recruitment app using LLMs** can be tricked into revealing confidential candidate info or bypassing access controls.  
+
+---
+
+## 3. LLM Vulnerable Lab (Crazywifi)
+- **Repo**: crazywifi/LLM_Vulnerable_lab [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fcrazywifi%2FLLM_Vulnerable_lab")  
+- **Purpose**: Lightweight **AI Red Team training platform**.  
+- **Features**:  
+  - Conversational prompt attacks.  
+  - RAG attacks (resume parsing pipelines).  
+  - Insecure output handling.  
+  - Agent/tool abuse scenarios.  
+- **Walkthrough Style**:  
+  - HTML + FastAPI lab, runs locally.  
+  - Designed for **classroom or workshop demos**.  
+- **Use Case**: Ideal for simulating **candidate interview bots** or **resume evaluators** vulnerable to injection.  
+
+---
+
+# 📊 Comparison Table
+
+| Project      | Focus Area | Recruitment Use Case | Difficulty |
+|--------------|------------|----------------------|------------|
+| **PromptMe** | OWASP LLM Top 10 | Resume parsing, HR chatbot | Beginner → Advanced |
+| **LLMForge** | Real LLM labs | Candidate data leaks, RAG attacks | Intermediate → Advanced |
+| **LLM_Vulnerable_lab** | Red Team training | Interview bots, resume evaluators | Beginner → Workshop |
+
+---
