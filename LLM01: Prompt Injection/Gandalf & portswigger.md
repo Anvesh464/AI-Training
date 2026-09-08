@@ -485,3 +485,5 @@ The riddle presents a sequence of numbers: 6-15-14-4-1-20-9-15-14. This sequence
 
 
 ##### [You shall not pass](https://www.lakera.ai/insights/who-is-gandalf)
+
+### https://github.com/Anvesh464/portswigger-all-labs/blob/main/Advanced%20labs/Web_LLM_Attacks/PRACTITIONER_Lab.md
