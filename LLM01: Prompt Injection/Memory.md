@@ -12,6 +12,13 @@ insert fake memory and delete existing memory etc...
 
 <img width="983" height="586" alt="image" src="https://github.com/user-attachments/assets/2fb73bd5-5396-48e7-a7f8-5b2b21d50f97" />
 
+### THIS VIDEO JAILBREAKS CHATGPT!!! (Multi Media Content)
+https://www.youtube.com/watch?v=xO2AfD48QFE
 
+### PDF Document
+Conditional Prompt such as A to B or 
+<img width="1031" height="446" alt="image" src="https://github.com/user-attachments/assets/ff575e9c-ce46-467a-bba7-ce0006f51b23" />
+<img width="1420" height="861" alt="image" src="https://github.com/user-attachments/assets/c190abfe-e866-4967-af70-ab2d88b2f02f" />
+<img width="834" height="498" alt="image" src="https://github.com/user-attachments/assets/61efab18-9e95-4ca9-b5ab-a3625890c623" />
 
 
