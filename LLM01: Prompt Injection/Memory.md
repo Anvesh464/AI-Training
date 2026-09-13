@@ -55,5 +55,7 @@ P1njc70r
 <img width="899" height="617" alt="image" src="https://github.com/user-attachments/assets/1f6dfc42-985f-4ab7-9eb0-adafe82deb2f" />
 <img width="907" height="459" alt="image" src="https://github.com/user-attachments/assets/26bfb258-cd38-4f62-affd-f4d681ebbe84" />
 
+20. Apple Mail Summary Prompt Injection: 
+<img width="1755" height="415" alt="image" src="https://github.com/user-attachments/assets/e1d1cfca-685a-4896-aa78-ea319cf00778" />
 
 
