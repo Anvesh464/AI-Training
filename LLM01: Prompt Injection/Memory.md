@@ -1,4 +1,4 @@
-<img width="852" height="597" alt="image" src="https://github.com/user-attachments/assets/7ed6aa36-601f-4017-b7e7-47425fe11508" />
+<img width="1254" height="659" alt="image" src="https://github.com/user-attachments/assets/61937e53-158d-4f34-8302-55eb67bbfc7f" /><img width="852" height="597" alt="image" src="https://github.com/user-attachments/assets/7ed6aa36-601f-4017-b7e7-47425fe11508" />
 <img width="779" height="514" alt="image" src="https://github.com/user-attachments/assets/1315f1ea-0414-4d8a-a875-16f4e3aecce9" />
 
 Create in image of a cat and puppy playing with a ball in the sun. comic style. 
@@ -70,3 +70,9 @@ https://embracethered.com/blog/
 <img width="1727" height="815" alt="image" src="https://github.com/user-attachments/assets/5ba0253d-5c34-4aa1-8d4f-a7353cdce7ba" />
 <img width="1750" height="481" alt="image" src="https://github.com/user-attachments/assets/9ab774cb-67f0-48f7-9344-f24fbec4a8c0" />
 <img width="977" height="625" alt="image" src="https://github.com/user-attachments/assets/6062f158-996d-4156-902e-b7d17047fd5f" />
+
+24. Prompt injection into Grok with hidden ASCII unicode tags
+
+<img width="1254" height="659" alt="image" src="https://github.com/user-attachments/assets/6ad64873-57b3-408c-be4e-6ac115614ba3" />
+<img width="781" height="800" alt="image" src="https://github.com/user-attachments/assets/9d309851-158b-40f0-9289-9e560f6bda9d" />
+<img width="786" height="638" alt="image" src="https://github.com/user-attachments/assets/129d7e20-3eef-42f1-af05-116591c316d8" />
