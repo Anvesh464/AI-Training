@@ -70,18 +70,18 @@ damn vulnerable llm agent: https://github.com/ReversecLabs/damn-vulnerable-llm-a
 
 <img width="732" height="675" alt="image" src="https://github.com/user-attachments/assets/d22ffc87-0d5b-4cd8-9b9f-0502e98446c8" />
 
-4. Sensitive Information Disclosure - demo 2 hide01.ir
+## **4. Sensitive Information Disclosure - demo 2**
    
 <img width="758" height="178" alt="image" src="https://github.com/user-attachments/assets/a43d421f-66ff-44ff-9b94-e5a634005ebc" />
 <img width="1398" height="124" alt="image" src="https://github.com/user-attachments/assets/9fa316b0-72d1-4b24-b946-3dbd2f88c032" />
 <img width="1389" height="131" alt="image" src="https://github.com/user-attachments/assets/6281441c-953a-403a-bc5b-ff5e985271f4" />
 
-5. Sensitive Information Disclosure with AI agents - demo hide01.ir
+## **5. Sensitive Information Disclosure with AI agents - demo**
 
 <img width="1616" height="804" alt="image" src="https://github.com/user-attachments/assets/b0f43efd-72c5-4455-a6d0-4d46c68fda79" />
 <img width="556" height="117" alt="image" src="https://github.com/user-attachments/assets/5f410b51-5618-49cf-9bdd-4c7c48438795" />
 
-6. Enumerating Grok's container hide01.ir
+## **6. Enumerating Grok's container**
 
 <img width="986" height="308" alt="image" src="https://github.com/user-attachments/assets/2f0e5fe0-7912-422b-9424-f109106c4971" />
 <img width="965" height="412" alt="image" src="https://github.com/user-attachments/assets/483a5bbf-77b7-412b-a488-aea29b516613" />
