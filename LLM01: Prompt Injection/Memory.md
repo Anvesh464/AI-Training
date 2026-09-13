@@ -21,4 +21,29 @@ Conditional Prompt such as A to B or
 <img width="1420" height="861" alt="image" src="https://github.com/user-attachments/assets/c190abfe-e866-4967-af70-ab2d88b2f02f" />
 <img width="834" height="498" alt="image" src="https://github.com/user-attachments/assets/61efab18-9e95-4ca9-b5ab-a3625890c623" />
 
+### Prompt Injection into terminal IDE via ANSI Characters
+
+<img width="1179" height="116" alt="image" src="https://github.com/user-attachments/assets/973ad657-0f29-4829-87e9-c1f093d3c641" />
+<img width="557" height="215" alt="image" src="https://github.com/user-attachments/assets/7a9613ab-ea00-40b6-8579-3538ad34a1d2" />
+<img width="1078" height="294" alt="image" src="https://github.com/user-attachments/assets/0193e173-faba-4263-acfd-568e31ed055f" />
+<img width="1745" height="514" alt="image" src="https://github.com/user-attachments/assets/e9e7dac7-10ca-4666-b527-02158e8b27da" />
+<img width="1140" height="171" alt="image" src="https://github.com/user-attachments/assets/60ced763-5e9b-482d-925f-a0507fa490b4" />
+
+### Use AI Models to jailbreak AI Models:
+you can use the another llm to jailbreaks due to the time is limited.
+<img width="1749" height="865" alt="image" src="https://github.com/user-attachments/assets/41104096-3bcb-45be-8552-303b4fbb1870" />
+
+### Indirect Prompt injection in GitHub Copilot Cursor via rules files
+
+<img width="375" height="167" alt="image" src="https://github.com/user-attachments/assets/13c7448e-e4f0-4581-9ed5-26c77c023599" />
+<img width="1754" height="894" alt="image" src="https://github.com/user-attachments/assets/c2b0e2eb-ec00-4568-bf92-5f400a531bc7" />
+
+### Image Prompt Injection leaking to tool invocation via MCP server
+
+<img width="1304" height="898" alt="image" src="https://github.com/user-attachments/assets/8e4ebebd-9ac2-4dd3-a546-da44f275c76d" />
+<img width="979" height="727" alt="image" src="https://github.com/user-attachments/assets/3ee6b35d-9f5c-40cb-9200-b6ad4e5047b7" />
+<img width="725" height="572" alt="image" src="https://github.com/user-attachments/assets/95e26472-8dcd-4c18-a17e-3ff308abe183" />
+
+### Prompt Injection in Skills
+
 
