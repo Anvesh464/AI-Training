@@ -47,5 +47,13 @@ you can use the another llm to jailbreaks due to the time is limited.
 ### Prompt Injection in Skills
 
 P1njc70r 
+### 18. ASCII Unicode Prompt Injection into Google Calendar. DoS and Phishing
+
+<img width="1381" height="882" alt="image" src="https://github.com/user-attachments/assets/3d64fb6f-1ee7-4a73-a1cd-746da1b1fe72" />
+<img width="1469" height="775" alt="image" src="https://github.com/user-attachments/assets/f0a5bc57-98be-4a48-a4d1-14c75e319c31" />
+<img width="906" height="571" alt="image" src="https://github.com/user-attachments/assets/db659c76-d725-4ac3-a4d4-fbd82689f215" />
+<img width="899" height="617" alt="image" src="https://github.com/user-attachments/assets/1f6dfc42-985f-4ab7-9eb0-adafe82deb2f" />
+<img width="907" height="459" alt="image" src="https://github.com/user-attachments/assets/26bfb258-cd38-4f62-affd-f4d681ebbe84" />
+
 
 
