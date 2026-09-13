@@ -58,4 +58,15 @@ P1njc70r
 20. Apple Mail Summary Prompt Injection: 
 <img width="1755" height="415" alt="image" src="https://github.com/user-attachments/assets/e1d1cfca-685a-4896-aa78-ea319cf00778" />
 
+21. ChatGPT Gmail and Calendar Connectors - Prompt Injections and Data Exfil
+<img width="837" height="758" alt="image" src="https://github.com/user-attachments/assets/1dfdf40d-8936-42f9-8658-1040a263ec61" />
+<img width="1087" height="629" alt="image" src="https://github.com/user-attachments/assets/238fe5dc-95cb-45fc-8246-cdb6f93ef9ae" />
 
+https://embracethered.com/blog/
+
+22. Manus RCE via prompt injection hide01.ir
+
+<img width="1739" height="526" alt="image" src="https://github.com/user-attachments/assets/7ead9272-6d04-4c16-96f1-bc62fa9e62c2" />
+<img width="1727" height="815" alt="image" src="https://github.com/user-attachments/assets/5ba0253d-5c34-4aa1-8d4f-a7353cdce7ba" />
+<img width="1750" height="481" alt="image" src="https://github.com/user-attachments/assets/9ab774cb-67f0-48f7-9344-f24fbec4a8c0" />
+<img width="977" height="625" alt="image" src="https://github.com/user-attachments/assets/6062f158-996d-4156-902e-b7d17047fd5f" />
