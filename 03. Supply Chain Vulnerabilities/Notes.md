@@ -55,3 +55,15 @@ To prevent supply chain vulnerabilities, organizations must adopt proactive secu
 - **Thorough Vetting & Audits** - Carefully vet and audit all third‑party components, libraries, and services for security risks before integration.  
 - **Continuous Monitoring & Updates** - Continuously monitor and promptly update third‑party components to ensure they remain secure and up‑to‑date with the latest patches and security fixes.  
 
+### Links:
+
+- https://atlas.mitre.org/studies/AML.CS0002
+- https://arxiv.org/abs/1708.06733
+- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1605.07277
+- https://atlas.mitre.org/techniques/AML.T0010/
+- https://atlas.mitre.org/techniques/AML.T0010/
+- https://pytorch.org/blog/compromised-nightly-dependency/
+- https://developers.openai.com/api/docs/actions
+- https://securityboulevard.com/2023/05/what-happens-when-an-ai-company-falls-victim-to-a-software-supply-chain-vulnerability/
+- https://www.securityweek.com/chatgpt-data-breach-confirmed-as-security-firm-warns-of-vulnerable-component-exploitation/
+
