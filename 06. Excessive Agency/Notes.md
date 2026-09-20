@@ -1,4 +1,4 @@
-<img width="1516" height="333" alt="image" src="https://github.com/user-attachments/assets/e28ad2b6-75d7-4044-bc6b-d1f550411719" /># LLM06:2025 Excessive Agency – THREATS
+# LLM06:2025 Excessive Agency – THREATS
 
 Excessive Agency refers to the vulnerability arising when Large Language Models (LLMs) are granted more functionality, permissions, or autonomy than necessary. This can enable unintended or harmful actions due to unexpected, ambiguous, or manipulated outputs.
 
