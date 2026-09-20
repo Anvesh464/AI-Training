@@ -83,4 +83,5 @@ To prevent training data poisoning, organizations must adopt strong validation a
 - **Rigorous Validation & Verification** - Validate and verify the integrity and authenticity of all training data to ensure it is free from malicious or misleading content.  
 - **Continuous Monitoring & Auditing** -  Implement continuous monitoring and auditing of the training process and datasets to detect and respond to anomalies or suspicious activities that could indicate poisoning attempts.  
 
+<img width="1253" height="741" alt="image" src="https://github.com/user-attachments/assets/7728721e-1df7-4542-a718-ccefa452618b" />
 
