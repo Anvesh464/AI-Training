@@ -65,3 +65,6 @@ To prevent insecure output handling, organizations must enforce strict safeguard
 https://security.snyk.io/vuln/SNYK-PYTHON-LANGCHAIN-5411357
 https://aivillage.org/blog/threat-modeling-llm/
 
+<img width="1273" height="741" alt="image" src="https://github.com/user-attachments/assets/55dc96c8-732c-48a5-8fee-10bf5b2d4602" />
+
+Improper Output Handling - Lab Insecure output handling in LLMs - Portswagger lab.
