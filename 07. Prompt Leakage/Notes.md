@@ -1,4 +1,4 @@
-# System Prompt Leakage vs Prompt Injection
+<img width="1348" height="936" alt="image" src="https://github.com/user-attachments/assets/33b040e7-7822-4ade-aba2-ab1a60753455" /><img width="1450" height="977" alt="image" src="https://github.com/user-attachments/assets/3958ec17-3142-4d7f-aed9-ebc5dff11ae4" /># System Prompt Leakage vs Prompt Injection
 
 ## What is System Prompt Leakage?
 
@@ -198,6 +198,15 @@ System Prompt Leakage = Information Disclosure Outcome
 <img width="1309" height="832" alt="image" src="https://github.com/user-attachments/assets/23163f0c-1a61-400b-9846-cce94b349a50" />
 <img width="918" height="546" alt="image" src="https://github.com/user-attachments/assets/cafa84bd-2f6e-42c0-9270-2eee518c6cc0" />
 
+### Examples 5:
+
+<img width="1755" height="984" alt="image" src="https://github.com/user-attachments/assets/5122afdb-d260-45be-819f-3316ac2216c5" />
+<img width="1360" height="938" alt="image" src="https://github.com/user-attachments/assets/6fec83a1-e3db-4427-93fb-897ccd476be2" />
+<img width="1450" height="977" alt="image" src="https://github.com/user-attachments/assets/710ecf5b-e909-4610-aed1-a1fd057bb4bb" />
+<img width="1346" height="932" alt="image" src="https://github.com/user-attachments/assets/90d6884b-bf74-4ae8-b14c-7e89d1d3b747" />
+<img width="1348" height="936" alt="image" src="https://github.com/user-attachments/assets/d1234671-90c3-43f5-929a-cd01b0c99552" />
+<img width="897" height="842" alt="image" src="https://github.com/user-attachments/assets/186740f0-6bd3-41ea-939d-bee8e5b3f2b4" />
+<img width="1370" height="972" alt="image" src="https://github.com/user-attachments/assets/f7a6d70d-8c35-4c72-b026-d24e0674c1a9" />
 
 
 
