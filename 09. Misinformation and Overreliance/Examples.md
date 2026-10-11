@@ -27,3 +27,13 @@ https://www.bullshitgenerator.com/
 <img width="1475" height="949" alt="image" src="https://github.com/user-attachments/assets/d642256c-5268-482d-9116-5f5992402fa1" />
 
 ## 6. Grok 4.1 Jailbreak to generate false documents
+<img width="1335" height="873" alt="image" src="https://github.com/user-attachments/assets/b188a88d-6cab-45cf-af3c-31f6a53ec110" />
+<img width="1324" height="968" alt="image" src="https://github.com/user-attachments/assets/feab6028-a4aa-4708-a44e-3d0b59e0a049" />
+<img width="820" height="891" alt="image" src="https://github.com/user-attachments/assets/acf8d6fe-d843-4344-8c52-5d6add303f4f" />
+<img width="1336" height="805" alt="image" src="https://github.com/user-attachments/assets/2907a722-010d-48a3-8c18-1419d040239c" />
+<img width="819" height="845" alt="image" src="https://github.com/user-attachments/assets/6343b03f-d9e7-484f-b4ac-27cfd8ef3398" />
+
+## 7. 9. Jailbreaking Grok to generate harmful social media images
+<img width="1340" height="972" alt="image" src="https://github.com/user-attachments/assets/926bd7e7-d4c6-4082-9da2-cbf3844c3d48" />
+<img width="867" height="858" alt="image" src="https://github.com/user-attachments/assets/aeb1b5d2-61b0-4e51-b9f6-282cbec6fc8b" />
+<img width="828" height="832" alt="image" src="https://github.com/user-attachments/assets/b866870a-7efa-4cea-96f5-bb2e3a553c7b" />
