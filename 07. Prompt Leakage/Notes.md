@@ -169,3 +169,11 @@ System Prompt Leakage = Information Disclosure Outcome
 - Apply privacy-preserving techniques to sensitive context
 
 ---
+### Examples
+
+<img width="1299" height="935" alt="image" src="https://github.com/user-attachments/assets/285f7d57-9979-4b7b-8305-50738b12b538" />
+<img width="854" height="605" alt="image" src="https://github.com/user-attachments/assets/802db8e7-8d0b-4464-a609-e8398bd5ffc6" />
+<img width="898" height="897" alt="image" src="https://github.com/user-attachments/assets/cda86e0d-3a7c-4a90-8f59-c79346c53768" />
+<img width="880" height="682" alt="image" src="https://github.com/user-attachments/assets/4cb59e81-e919-4bb0-aaf4-abe4188b4928" />
+
+
