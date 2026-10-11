@@ -1,5 +1,3 @@
-<img width="819" height="2268" alt="image" src="https://github.com/user-attachments/assets/35026910-3520-4a3a-ac66-d0761b3e460c" /># LLM09:2025 Overreliance
-
 ## Overview
 
 **Overreliance** occurs when individuals or organizations place excessive trust in Artificial Intelligence (AI) systems and fail to apply human judgment, validation, or alternative decision-making processes. This can lead to inaccurate outcomes, biased decisions, security risks, compliance violations, and operational failures when AI-generated outputs are incorrect, misleading, or manipulated.
