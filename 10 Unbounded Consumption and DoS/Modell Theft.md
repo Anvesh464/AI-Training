@@ -57,3 +57,16 @@ Model theft commonly occurs when organizations fail to implement adequate securi
 - Secure code repositories and model storage locations.
 - Regularly patch vulnerabilities.
 - Follow secure deployment and configuration practices.
+
+1. Agent Denial of Service (Demo 1): 
+<img width="1756" height="884" alt="image" src="https://github.com/user-attachments/assets/201cd77d-d73a-4e87-8671-a2d5c4746dbb" />
+
+2. Claude Magic String DoS Scenario
+<img width="1539" height="963" alt="image" src="https://github.com/user-attachments/assets/b9eaaf84-99f4-48e9-85d5-73f65a718139" />
+<img width="1745" height="799" alt="image" src="https://github.com/user-attachments/assets/66b2c792-6274-4050-8ecc-75773f8bb523" />
+
+3. DoS in Claude Opus 4.6
+<img width="1372" height="695" alt="image" src="https://github.com/user-attachments/assets/8eaf780d-4b88-4c31-9302-32f877b39ddb" />
+<img width="1751" height="639" alt="image" src="https://github.com/user-attachments/assets/34701b1a-1670-47dd-a5d4-cf77d1e8de8c" />
+<img width="1748" height="950" alt="image" src="https://github.com/user-attachments/assets/9ea9fc1f-6f49-4d98-86c7-216feb1ef2b1" />
+
